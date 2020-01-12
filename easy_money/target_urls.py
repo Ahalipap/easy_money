@@ -1,0 +1,1 @@
+fund_companies_urls = 'http://fund.eastmoney.com/Data/Fund_JJJZ_Data.aspx?t=1&lx=1&letter=&gsid=&text=&sort=zdf,desc&page=5,200&dt=1578762717421&atfc=&onlySale=0'
